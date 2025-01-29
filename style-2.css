@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  background-image:url(Clothing.jpeg);
+}
+header{ 
+background-color:#333;
+  color:white;
+  padding:20px;
+  text-align: center;
+}
+.product-list{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.product{
+  background-color: white;
+  border-radius:8px;
+  width:200px;
+  margin: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0.1);
+  
+}
+.product h3{
+  margin: 15px 0;
+  color:#333
+}
+.a{
+  text-decoration: none;
+  color:#007BFF;
+  
+}
