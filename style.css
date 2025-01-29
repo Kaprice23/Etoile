@@ -1,0 +1,22 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image:url(comingsoon.jpeg);
+}
+h1 {
+  font-size: 4em;
+  color: #333;
+}
+a {
+  text-decoration: none;
+  color: #007BFF;
+  font-size: 1.2em;
+  margin-top: 20px;
+  display: inline-block;
+}
